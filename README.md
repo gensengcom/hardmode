@@ -1,0 +1,2 @@
+# hardmode
+🪨 Leetcode for hardware.
